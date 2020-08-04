@@ -1,0 +1,26 @@
+body{
+    background-color: powderblue;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: green;
+    border-width: 5px;
+    width: 5%;   
+}
+
+h1, h3{
+    color: blue;
+}
+img{
+    border-radius: 50%;
+}
+footer {
+    margin-top: 50px;
+    text-align: center;
+    font-size: 16px;
+}
+
+a, a:hover, a:visited {
+    color: black;
+}
